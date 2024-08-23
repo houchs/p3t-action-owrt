@@ -17,6 +17,6 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom' >>feeds.conf.default
 echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2' >>feeds.conf.default
-echo alist 'src-git https://github.com/sbwml/luci-app-alist >>feeds.conf.default
+echo 'src-git alist https://github.com/sbwml/luci-app-alist >>feeds.conf.default
 #./scripts/feeds install openssh-sftp-server 
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
